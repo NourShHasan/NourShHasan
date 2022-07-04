@@ -1,0 +1,25 @@
+name: gymmat
+version: 1.0.0+1
+publish_to: none
+description: Gymmat Trainers and Dietitians Assistant
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.1
+  firebase_core: ^1.11.0
+  http: ^0.13.4
+  validated: ^2.0.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  lints:
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
