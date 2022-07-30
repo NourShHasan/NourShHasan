@@ -8,6 +8,7 @@ environment:
 dependencies:
   cupertino_icons: ^1.0.2
   get: ^4.6.1
+  dio:
   get_storage: ^2.0.3
   firebase_core: ^1.11.0
   http: ^0.13.4
