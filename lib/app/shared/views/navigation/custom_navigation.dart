@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:gymmat/app/shared/views/navigation/navigator.dart';
-import 'package:gymmat/app/views/home/splash_view.dart';
-import 'package:gymmat/app/views/splash/splash_view.dart';
+import 'package:gymmat/app/views/home/widgets/splash_view.dart';
+import 'package:gymmat/app/views/splash/widgets/splash_view.dart';
 
 final GlobalKey<NavigatorState> navigatorState = GlobalKey<NavigatorState>();
 final RouteObserver<PageRoute> routeObserver = RouteObserver<PageRoute>();
