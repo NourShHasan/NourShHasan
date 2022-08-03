@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
         "GYMMAT"
-    ]
+    ],
+    "atlascode.jira.enabled": false,
+    "atlascode.bitbucket.enabled": false
 }
